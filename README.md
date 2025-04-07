@@ -1,8 +1,7 @@
 Mọi người fork code lên đây để dễ debug và để mình với Nguyễn Chí Thiện làm phần syscall nhen. 
-Link hướng dẫn cách fork GitHub: https://www.toponseek.com/blogs/fork-github-la-gi/
+ https://www.toponseek.com/blogs/fork-github-la-gi/
 
-Hoặc là mọi người clone về rồi push lên cũng được:  
-Link hướng dẫn các lệnh Git cơ bản: https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
+Hoặc là mọi người clone về rồi push lên cũng được:   https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
 
 ---
 
