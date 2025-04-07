@@ -1,4 +1,4 @@
-## Hướng dẫn sử dụng repo
+Sửa trực tiếp vào file này
 
 Mọi người fork code lên đây để dễ debug và để mình với Nguyễn Chí Thiện làm phần syscall nhen.  
 Link hướng dẫn cách fork GitHub: https://www.toponseek.com/blogs/fork-github-la-gi/
