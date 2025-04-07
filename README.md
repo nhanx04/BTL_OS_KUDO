@@ -5,7 +5,7 @@ Hoặc là mọi người clone về rồi push lên cũng được:   https://w
 
 ---
 
-PS: Sau khi fork, nhớ gửi pull request và kèm theo đặc tả nội dung update. 
+PS: Sau khi fork, nhớ gửi *pull request* và kèm theo đặc tả nội dung update. 
 
 ---
 
